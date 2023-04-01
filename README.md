@@ -14,9 +14,9 @@ Designed in DipTrace.
 
 *Documentation in progress.
 
-![Board](/pictures/board.gif)
+![Board](pictures/board.gif)
 
-![Board](/pictures/sx1272_board.jpg)
+![Board](pictures/sx1272_board.jpg)
 
 ## License
 
